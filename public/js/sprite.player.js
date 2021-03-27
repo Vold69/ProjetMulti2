@@ -1,0 +1,25 @@
+const spriteBlack = [{
+    frameX : 18,
+    frameY : 307,},
+    {frameX: 70,
+    frameY : 307,},
+    {frameX: 122,
+    frameY : 307,},
+    {frameX: 174,
+    frameY : 307,},
+    {frameX: 226,
+    frameY : 307,},
+    {frameX: 278,
+    frameY : 307,},
+    {frameX: 335,
+    frameY : 307,},
+    {frameX: 388,
+    frameY : 307,},
+    {frameX: 440,
+    frameY : 307,},
+    {frameX: 492,
+    frameY : 307,},
+    {frameX: 545,
+    frameY : 307,}];
+
+module.exports = spriteBlack
